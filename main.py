@@ -22,7 +22,7 @@ from telebot.types import (
 # ============================================================
 # CONFIG
 # ============================================================
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8967168772:AAHL_EOLqIsLLtt8uZ9n44yRDYOYNKYiVJY")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8079044026:AAGkX3Q_EvaYKRmi6RM5jx65z3OU1G3r7Pk")
 OWNER_ID = int(os.getenv("OWNER_ID", "6863389453"))
 SELF_URL = os.getenv("SELF_URL", "").strip()
 PORT = int(os.getenv("PORT", "8080"))
